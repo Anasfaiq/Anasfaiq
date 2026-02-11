@@ -1,4 +1,4 @@
-![flight](https://tenor.com/bjJBh.gif)
+![flight](https://media1.tenor.com/m/uy_OBkkROWIAAAAd/yummy-tongue.gif)
 
 <!--
 **Anasfaiq/Anasfaiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
