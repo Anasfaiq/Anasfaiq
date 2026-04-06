@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/uy_OBkkROWIAAAAd/yummy-tongue.gif" alt="flight" />
+  <img src="https://media1.tenor.com/m/vRbty4Dw88UAAAAC/reggie-star-jjk.gif" alt="reggie-star" />
 </p>
 
 <!--
