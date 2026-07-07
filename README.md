@@ -15,7 +15,7 @@
 <!-- START_SECTION:latest_projects -->
 - [**Anasfaiq**](https://github.com/Anasfaiq/Anasfaiq) - Project tanpa deskripsi
 - [**organizer**](https://github.com/Anasfaiq/organizer) - Project tanpa deskripsi
-- [**offtrack**](https://github.com/Anasfaiq/offtrack) - Project tanpa deskripsi
+- [**portfolio-new**](https://github.com/Anasfaiq/portfolio-new) - Project tanpa deskripsi
 
 <!-- END_SECTION:latest_projects -->
 
