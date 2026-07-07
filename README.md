@@ -13,7 +13,10 @@
 ### 🚀 Latest Projects
 
 <!-- START_SECTION:latest_projects -->
-<!-- Section ini bakal di-update otomatis oleh script Python tiap malam -->
+- [**Anasfaiq**](https://github.com/Anasfaiq/Anasfaiq) - Project tanpa deskripsi
+- [**organizer**](https://github.com/Anasfaiq/organizer) - Project tanpa deskripsi
+- [**offtrack**](https://github.com/Anasfaiq/offtrack) - Project tanpa deskripsi
+
 <!-- END_SECTION:latest_projects -->
 
 ---
