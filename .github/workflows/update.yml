@@ -3,11 +3,13 @@ name: Update README dengan Project Terbaru
 on:
   schedule:
     - cron: '0 0 * * *' # Jalan otomatis setiap hari jam 12 malam UTC
-  workflow_dispatch: # Biar lu bisa jalanin manual dari tombol "Run workflow"
+  workflow_dispatch: # Biar bisa jalanin manual dari tombol "Run workflow"
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # WAJIB ADA: Biar bot diizinkan nge-push perubahan ke repo lu
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4

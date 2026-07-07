@@ -40,7 +40,7 @@
 
 <p align="center">
   <!-- Kartu Statistik Umum -->
-  <img src="https://github-stats-extended.vercel.app/api?username=anasfaiq&show_icons=true&theme=tokyonight" alt="Anas's GitHub stats" width="46%\" />
+  <img src="https://github-stats-extended.vercel.app/api?username=anasfaiq&show_icons=true&theme=tokyonight" alt="Anas's GitHub stats" width="46%" />
   &nbsp;&nbsp;
   <!-- Kartu Persentase Bahasa Pemrograman -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anasfaiq&layout=compact&theme=tokyonight&hide=html,hack" alt="Anas's Top Langs" width="46%" />

@@ -22,8 +22,8 @@ with open("README.md", "r", encoding="utf-8") as file:
     readme = file.read()
 
 # Timpa bagian di antara tag penanda dengan list project baru
-marker_start = ""
-marker_end = ""
+marker_start = "<!-- START_SECTION:latest_projects -->"
+marker_end = "<!-- END_SECTION:latest_projects -->"
 pattern = rf"{marker_start}.*?{marker_end}"
 new_readme = re.sub(pattern, f"{marker_start}{project_list}{marker_end}", readme, flags=re.DOTALL)
 
