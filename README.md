@@ -48,3 +48,6 @@
   <!-- Kartu Persentase Bahasa Pemrograman -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anasfaiq&layout=compact&theme=tokyonight&hide=html,hack" alt="Anas's Top Langs" width="46%" />
 </p>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=anasfaiq&style=flat-square&color=8A9A5B)
+
