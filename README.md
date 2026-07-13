@@ -13,8 +13,8 @@
 ### 🚀 Latest Projects
 
 <!-- START_SECTION:latest_projects -->
-- [**taskboard**](https://github.com/Anasfaiq/taskboard) - Project tanpa deskripsi
 - [**Anasfaiq**](https://github.com/Anasfaiq/Anasfaiq) - Project tanpa deskripsi
+- [**taskboard**](https://github.com/Anasfaiq/taskboard) - Project tanpa deskripsi
 - [**organizer**](https://github.com/Anasfaiq/organizer) - Project tanpa deskripsi
 
 <!-- END_SECTION:latest_projects -->
