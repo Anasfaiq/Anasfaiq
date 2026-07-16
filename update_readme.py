@@ -13,7 +13,7 @@ project_list = "\n"
 for repo in repos:
     # Handle error kalau API kena rate limit atau repo kosong
     if isinstance(repo, dict) and 'name' in repo:
-        desc = repo.get('description') or 'Project tanpa deskripsi'
+        desc = repo.get('description') or 'No description yet'
         project_list += f"- [**{repo['name']}**]({repo['html_url']}) - {desc}\n"
 project_list += "\n"
 
