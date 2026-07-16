@@ -13,9 +13,9 @@
 ### 🚀 Latest Projects
 
 <!-- START_SECTION:latest_projects -->
-- [**Anasfaiq**](https://github.com/Anasfaiq/Anasfaiq) - Project tanpa deskripsi
-- [**ComicList**](https://github.com/Anasfaiq/ComicList) - Project tanpa deskripsi
-- [**taskboard**](https://github.com/Anasfaiq/taskboard) - Project tanpa deskripsi
+- [**Anasfaiq**](https://github.com/Anasfaiq/Anasfaiq) - No description yet
+- [**ComicList**](https://github.com/Anasfaiq/ComicList) - No description yet
+- [**taskboard**](https://github.com/Anasfaiq/taskboard) - No description yet
 
 <!-- END_SECTION:latest_projects -->
 
