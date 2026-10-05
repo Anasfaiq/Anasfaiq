@@ -13,9 +13,9 @@
 ### 🚀 Latest Projects
 
 <!-- START_SECTION:latest_projects -->
+- [**SobiRun**](https://github.com/Anasfaiq/SobiRun) - No description yet
+- [**lofi-focus**](https://github.com/Anasfaiq/lofi-focus) - No description yet
 - [**Anasfaiq**](https://github.com/Anasfaiq/Anasfaiq) - No description yet
-- [**ComicList**](https://github.com/Anasfaiq/ComicList) - No description yet
-- [**taskboard**](https://github.com/Anasfaiq/taskboard) - No description yet
 
 <!-- END_SECTION:latest_projects -->
 
