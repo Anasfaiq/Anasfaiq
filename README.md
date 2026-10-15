@@ -13,9 +13,9 @@
 ### 🚀 Latest Projects
 
 <!-- START_SECTION:latest_projects -->
+- [**autodeck-from-notes**](https://github.com/Anasfaiq/autodeck-from-notes) - anki add-on (WIP)
 - [**Anasfaiq**](https://github.com/Anasfaiq/Anasfaiq) - No description yet
 - [**lofi-focus**](https://github.com/Anasfaiq/lofi-focus) - No description yet
-- [**ComicList**](https://github.com/Anasfaiq/ComicList) - No description yet
 
 <!-- END_SECTION:latest_projects -->
 
