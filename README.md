@@ -13,8 +13,8 @@
 ### 🚀 Latest Projects
 
 <!-- START_SECTION:latest_projects -->
+- [**mini-url-shortener**](https://github.com/Anasfaiq/mini-url-shortener) - Simple url shortener
 - [**Anasfaiq**](https://github.com/Anasfaiq/Anasfaiq) - No description yet
-- [**autodeck-from-notes**](https://github.com/Anasfaiq/autodeck-from-notes) - anki add-on (WIP)
 - [**lofi-focus**](https://github.com/Anasfaiq/lofi-focus) - No description yet
 
 <!-- END_SECTION:latest_projects -->
